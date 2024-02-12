@@ -6,6 +6,7 @@ const http = require("http");
 const { Server } = require("socket.io");
 const db = require("./config/db");
 const ACTIONS = require("./actions/Actions");
+require('dotenv').config();
 
 const authenticate = require("./middleware/authenticationMiddleware");
 const authRoutes = require("./controllers/authController");

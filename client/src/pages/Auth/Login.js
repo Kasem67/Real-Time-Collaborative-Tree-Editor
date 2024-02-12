@@ -101,8 +101,8 @@ function Login() {
 
       <footer>
         <h4>
-          Built with 💛 &nbsp; by &nbsp;
-          <a href="https://github.com/">Hiren Chavda</a>
+          Built with 💛&nbsp;by&nbsp;
+          <a href="https://github.com/darshankparmar">Darshan Parmar</a>
         </h4>
       </footer>
     </div>
