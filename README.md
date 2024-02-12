@@ -31,7 +31,12 @@ npm i
 ```
 Create database and table in mysql for that use existing query given in 
 ```bash
-path : server/db.script.
+path : server/db.script
+```
+
+Find .env.sample file and create new .env file at same location
+```bash
+path : server/.env.sample
 ```
 
 run client-side
