@@ -4,7 +4,7 @@
 Real time collaborative tree editor
 
 # Tech 
-MERN
+NodeJS + ReactJS + MySQL
 
 # Client-side 
 Change location to client
@@ -20,7 +20,7 @@ run client-side
 npm start
 ```
 
-#Server-side
+# Server-side
 Change location to client
 ```bash
 cd ./server
